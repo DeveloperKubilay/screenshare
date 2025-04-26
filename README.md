@@ -1,10 +1,10 @@
-# 🖥️ LiveScreen Pro
+# 🖥️ Screen Share
 
-![Live Screen Pro Banner](https://i.imgur.com/ptGfAaZ.gif)
+![Live Screen Pro Banner](https://i.imgur.com/V8XTnFj.gif)
 
 ## 🚀 What Does It Do?
 
-**LiveScreen Pro** is a lightweight and fast application that allows you to share your desktop in real-time through a web browser! The easiest way to share your screen with minimal latency over the internet!
+**Screen Share** is a lightweight and fast application that allows you to share your desktop in real-time through a web browser! The easiest way to share your screen with minimal latency over the internet!
 
 - 🔴 **Real-Time Streaming**: Share your desktop instantly
 - 🌐 **Browser-Based**: No extra software needed, just a web browser
@@ -140,13 +140,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-# 🖥️ LiveScreen Pro (Türkçe)
+# 🖥️ Screen Share (Türkçe)
 
-![Live Screen Pro Banner](https://i.imgur.com/ptGfAaZ.gif)
+![Live Screen Pro Banner](https://i.imgur.com/V8XTnFj.gif)
 
 ## 🚀 Ne İşe Yarar?
 
-**LiveScreen Pro**, masaüstünüzü web tarayıcı üzerinden gerçek zamanlı olarak paylaşmanızı sağlayan hafif ve hızlı bir uygulamadır! Ekran görüntünüzü düşük gecikme süresiyle internet üzerinden paylaşmanın en kolay yolu! 
+**Screen Share**, masaüstünüzü web tarayıcı üzerinden gerçek zamanlı olarak paylaşmanızı sağlayan hafif ve hızlı bir uygulamadır! Ekran görüntünüzü düşük gecikme süresiyle internet üzerinden paylaşmanın en kolay yolu! 
 
 - 🔴 **Gerçek Zamanlı Yayın**: Masaüstünüzü anında paylaşın
 - 🌐 **Tarayıcı Tabanlı**: Ekstra yazılım gerekmez, sadece bir web tarayıcısı yeterli
